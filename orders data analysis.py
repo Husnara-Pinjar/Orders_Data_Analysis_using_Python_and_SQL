@@ -11,7 +11,7 @@ import kaggle
 # In[2]:
 
 
-'kaggle datasets download ankitbansal06/retail-orders -f orders.csv'
+!kaggle datasets download ankitbansal06/retail-orders -f orders.csv
 
 
 # In[3]:
