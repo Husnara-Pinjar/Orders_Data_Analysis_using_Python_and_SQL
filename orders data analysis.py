@@ -5,6 +5,7 @@
 
 
 #import libraries
+#!pip install kaggle
 import kaggle
 
 
